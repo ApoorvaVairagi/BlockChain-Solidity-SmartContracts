@@ -28,5 +28,5 @@ December 2013
 ### Interfacing with Ethereum Networks
 
 For Developers - web3.js
-For Consumers - Matamask: is a chrome/browser extension that allows people to intract with the ethereum network.
+For Consumers - Metamask: is a chrome/browser extension that allows people to intract with the ethereum network.
 
